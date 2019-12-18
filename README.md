@@ -13,6 +13,9 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 *   Interface gráfica WYSIWYG para edição de regras de negócio para processos
 *   Dataset genêrico de webservices (PROTHEUS)
 *   Dataset genêrico de webservices (DATASUL)
+*   Pluguim de importação e exportação de código (datasets, formulários, processos)
+*   Atualizador de scripts de processos de versões antigas
+*   Atualizador de arquivos de formulários de versões antigas
 
 ### Hacks em Desenvolvimento
 +   Conversor de versão de formulários
