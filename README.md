@@ -26,21 +26,21 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 ### Hacks Concluídos
 -   ...
 
-### Hacks Impossíveis até o Momento
+### Hacks Impossíveis (até o Momento)
 -   ...
-
-
+   
+   
 ## Links Uteis
 [Webpage Fluig](https://www.totvs.com/fluig/)  
 [Documentação Oficial do Fluig](http://dev.fluig.com/)  
 [Fórum Oficial Fluig](http://forum.fluig.com/)  
-
-
+   
+   
 >  ## Observações
 >  Esse projeto é livre para quem quiser ajudar na sua evolução desenvolvendo código, compartilhando dicas e dúvidas ou até mesmo realizando um "fork" e fazendo tudo do seu jeito. Acreditamos que o importante é ajudar a comunicade de desenvolvedores Fluig.
 >  Não temos nenhuma intenção de prejudicar a imagem da plataforma Fluig ou da empresa TOTVS, nem mesmo criar códigos que depreciem sua utilidade de negócio ou abrangência de mercado.
-
-
+   
+   
 Então vamos colocar a mão na massa, porque essa é a função de um verdadeiro pedreiro de código.
-![Dev Cat](/files/images/devcat.gif)
+        ![Dev Cat](/files/images/devcat.gif)
 
