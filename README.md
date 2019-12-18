@@ -4,7 +4,7 @@
 Este é um projeto que visa desenvolver uma coletânea de códigos, que auxiliem os desenvolvedores da plataforma ["Fluig"](https://www.totvs.com/fluig/). Se você já sofreu com dúvidas ou coisas impossíveis de serem feitas no Fluig não pode ficar fora dessa jogada.
 
 ## Hacks
-Abaixo segue a lista dos "hacks" indentificados, separados por status (necessários, em desenvolvimento, concluídos). Caso você tenha mais algum pode nos informar na área de Issues ou entrar em contato.
+Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de desenvolvimento (necessários, em desenvolvimento, concluídos e impossíveis). Caso você tenha mais algum pode nos informar na área de Issues ou entrar em contato.
 
 ### Hacks Necessários
 *   Conversor de versão de formulários
@@ -22,15 +22,18 @@ Abaixo segue a lista dos "hacks" indentificados, separados por status (necessár
 ### Hacks Concluídos
 -   ...
 
-## Links Uteis
-["Webpage Fluig"](https://www.totvs.com/fluig/)  
-["Documentação Oficial do Fluig"](http://dev.fluig.com/)  
-["Fórum Oficial Fluig"](http://forum.fluig.com/)  
+### Hacks Impossíveis até o Momento
+-   ...
 
-## Observações
-Esse projeto é livre para quem quiser ajudar no desenvolvimento, dicas, dúvidas ou até mesmo realizar um "fork".
-Não temos nenhuma intenção de depreciar a imagem da plataforma Fluig e criar códigos que depreciem sua utilidade de negócio ou mercado.
+## Links Uteis
+[Webpage Fluig](https://www.totvs.com/fluig/)  
+[Documentação Oficial do Fluig](http://dev.fluig.com/)  
+[Fórum Oficial Fluig](http://forum.fluig.com/)  
+
+>  ## Observações
+>  Esse projeto é livre para quem quiser ajudar no desenvolvimento, dicas, dúvidas ou até mesmo realizar um "fork".
+>  Não temos nenhuma intenção de depreciar a imagem da plataforma Fluig e criar códigos que depreciem sua utilidade de negócio ou mercado.
 
 Então vamos colocar a mão na massa, porque essa é a função de um verdadeiro pedreiro de código.
-![Dev Cat](/files/images/devcat1.gif)
+![Dev Cat](/files/images/devcat.gif)
 
