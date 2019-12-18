@@ -1,7 +1,7 @@
 # fluig-hack
 
 ## Visão Geral
-Este é um projeto que visa desenvolver uma coletânea de códigos, que auxiliem os desenvolvedores da plataforma [an example](https://www.totvs.com/fluig/ "Fluig"). Se você já sofreu com dúvidas ou coisas impossíveis de serem feitas no Fluig não pode ficar fora dessa jogada.
+Este é um projeto que visa desenvolver uma coletânea de códigos, que auxiliem os desenvolvedores da plataforma ["Fluig"](https://www.totvs.com/fluig/). Se você já sofreu com dúvidas ou coisas impossíveis de serem feitas no Fluig não pode ficar fora dessa jogada.
 
 ## Hacks
 Abaixo segue a lista dos "hacks" indentificados, separados por status (necessários, em desenvolvimento, concluídos). Caso você tenha mais algum pode nos informar na área de Issues ou entrar em contato.
@@ -23,9 +23,9 @@ Abaixo segue a lista dos "hacks" indentificados, separados por status (necessár
 -   ...
 
 ## Links Uteis
-[an example](https://www.totvs.com/fluig/ "Webpage Fluig")
-[an example](http://dev.fluig.com/ "Documentação Oficial do Fluig")
-[an example](http://forum.fluig.com/ "Fórum Oficial Fluig")
+["Webpage Fluig"](https://www.totvs.com/fluig/)  
+["Documentação Oficial do Fluig"](http://dev.fluig.com/)  
+["Fórum Oficial Fluig"](http://forum.fluig.com/)  
 
 ## Observações
 Esse projeto é livre para quem quiser ajudar no desenvolvimento, dicas, dúvidas ou até mesmo realizar um "fork".
