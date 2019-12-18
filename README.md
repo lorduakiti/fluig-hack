@@ -7,7 +7,7 @@ Este é um projeto que visa desenvolver uma coletânea de códigos, que auxiliem
 Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de desenvolvimento (necessários, em desenvolvimento, concluídos e impossíveis). Caso você tenha mais algum pode nos informar na área de Issues ou entrar em contato.
 
 ### Hacks Necessários
-*   Conversor de versão de formulários
+*   Atualizador de campos de descrição de formulários em lote
 *   Conversor de versão de processos em lote
 *   Interface gráfica WYSIWYG para edição de formulários
 *   Interface gráfica WYSIWYG para edição de regras de negócio para processos
@@ -15,6 +15,7 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 *   Dataset genêrico de webservices (DATASUL)
 
 ### Hacks em Desenvolvimento
++   Conversor de versão de formulários
 +   Dataset genêrico de webservices (RM)
 +   Dataset customizado de formulários com filtros avançados de tipos de dados
 +   Dataset de armazenamento global de senhas e nome de serviços
