@@ -23,7 +23,7 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 +   Dataset genêrico de webservices (RM)
 +   Dataset customizado de formulários com filtros avançados de tipos de dados
 +   Dataset de armazenamento global de senhas e nome de serviços
-*   Pluguim de importação e exportação de código (datasets, formulários, processos) [Pluguim VS Code](https://github.com/andretimm/vscode-fluig)  
++   Pluguim de importação e exportação de código (datasets, formulários, processos) [Pluguim VS Code](https://github.com/andretimm/vscode-fluig)  
 
 ### Hacks Concluídos
 -   ...
@@ -45,6 +45,6 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
    
 Então vamos colocar a mão na massa, porque essa é a função de um verdadeiro pedreiro de código.
 <p align="center">
-![Dev Cat](/files/images/devcat.gif)
+<img src="https://github.com/lorduakiti/fluig-hack/blob/master/files/images/devcat.gif?raw=true">
 </p>
 
