@@ -13,15 +13,17 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 *   Interface gráfica WYSIWYG para edição de regras de negócio para processos
 *   Dataset genêrico de webservices (PROTHEUS)
 *   Dataset genêrico de webservices (DATASUL)
-*   Pluguim de importação e exportação de código (datasets, formulários, processos)
 *   Atualizador de scripts de processos de versões antigas
 *   Atualizador de arquivos de formulários de versões antigas
+*   Restaurador de processos cancelados
+*   Painel de consultas SQL no banco do Fluig
 
 ### Hacks em Desenvolvimento
 +   Conversor de versão de formulários
 +   Dataset genêrico de webservices (RM)
 +   Dataset customizado de formulários com filtros avançados de tipos de dados
 +   Dataset de armazenamento global de senhas e nome de serviços
+*   Pluguim de importação e exportação de código (datasets, formulários, processos) [Pluguim VS Code](https://github.com/andretimm/vscode-fluig)  
 
 ### Hacks Concluídos
 -   ...
@@ -42,5 +44,7 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
    
    
 Então vamos colocar a mão na massa, porque essa é a função de um verdadeiro pedreiro de código.
-        ![Dev Cat](/files/images/devcat.gif)
+<p align="center">
+![Dev Cat](/files/images/devcat.gif)
+</p>
 
