@@ -8,8 +8,8 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 
 ### Hacks Necessários
 *   Conversor de versão de processos em lote
-*   Interface gráfica WYSIWYG para edição de formulários
-*   Interface gráfica WYSIWYG para edição de regras de negócio para processos
+*   Interface gráfica para edição de formulários (WYSIWYG)
+*   Interface gráfica para edição de regras de negócio para processos (WYSIWYG)
 *   Dataset genêrico de webservices (PROTHEUS)
 *   Dataset genêrico de webservices (DATASUL)
 *   Atualizador de scripts de processos de versões antigas
@@ -25,7 +25,7 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 +   Dataset customizado de formulários com filtros avançados de tipos de dados
 +   Dataset de armazenamento global de senhas e nome de serviços
 +   Pluguim de importação e exportação de código (datasets, formulários, processos) [Pluguim VS Code](https://github.com/andretimm/vscode-fluig)  
-+   Integração de chamadas API com PHP/Laravel [SOAP](https://github.com/doug1n/laravel-fluig)  [REST](https://github.com/plazari15/laravel-fluig)
++   Integração de chamadas API com PHP/Laravel [SOAP](https://github.com/doug1n/laravel-fluig) | [REST](https://github.com/plazari15/laravel-fluig)
 
 ### Hacks Concluídos
 -   ...
