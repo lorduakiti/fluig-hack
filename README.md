@@ -7,7 +7,6 @@ Este é um projeto que visa desenvolver uma coletânea de códigos, que auxiliem
 Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de desenvolvimento (necessários, em desenvolvimento, concluídos e impossíveis). Caso você tenha mais algum pode nos informar na área de Issues ou entrar em contato.
 
 ### Hacks Necessários
-*   Atualizador de campos de descrição de formulários em lote
 *   Conversor de versão de processos em lote
 *   Interface gráfica WYSIWYG para edição de formulários
 *   Interface gráfica WYSIWYG para edição de regras de negócio para processos
@@ -20,11 +19,13 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 *   Gerador de datasets via dataset
 
 ### Hacks em Desenvolvimento
++   Atualizador de campos de descrição de formulários em lote
 +   Conversor de versão de formulários
 +   Dataset genêrico de webservices (RM)
 +   Dataset customizado de formulários com filtros avançados de tipos de dados
 +   Dataset de armazenamento global de senhas e nome de serviços
 +   Pluguim de importação e exportação de código (datasets, formulários, processos) [Pluguim VS Code](https://github.com/andretimm/vscode-fluig)  
++   Integração de chamadas API com PHP/Laravel [SOAP](https://github.com/doug1n/laravel-fluig)  [REST](https://github.com/plazari15/laravel-fluig)
 
 ### Hacks Concluídos
 -   ...
@@ -34,10 +35,10 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
    
    
 ## Links Uteis
-[Webpage Fluig](https://www.totvs.com/fluig/)  
-[Documentação Oficial do Fluig](http://dev.fluig.com/)  
-[Fórum Oficial Fluig](http://forum.fluig.com/)  
-   
+[Webpage Fluig](https://www.totvs.com/fluig)  
+[Documentação Oficial do Fluig](http://dev.fluig.com)  
+[Fórum Oficial Fluig](http://forum.fluig.com)  
+[Principais Recursos](https://github.com/elton182/fluig-cookbook)  
    
 >  ## Observações
 >  Esse projeto é livre para quem quiser ajudar na sua evolução desenvolvendo código, compartilhando dicas e dúvidas ou até mesmo realizando um "fork" e fazendo tudo do seu jeito. Acreditamos que o importante é ajudar a comunicade de desenvolvedores Fluig.
