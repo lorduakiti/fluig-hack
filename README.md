@@ -24,7 +24,7 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 +   Dataset genêrico de webservices (RM)
 +   Dataset customizado de formulários com filtros avançados de tipos de dados
 +   Dataset de armazenamento global de senhas e nome de serviços
-+   Pluguim de importação e exportação de código (datasets, formulários, processos) [Pluguim VS Code](https://github.com/andretimm/vscode-fluig)  
++   Pluguim de importação e exportação de código (datasets, formulários, processos) [Plugin VS Code](https://github.com/andretimm/vscode-fluig)  
 +   Integração de chamadas API com PHP/Laravel [SOAP](https://github.com/doug1n/laravel-fluig) | [REST](https://github.com/plazari15/laravel-fluig)
 
 ### Hacks Concluídos
