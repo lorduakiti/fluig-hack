@@ -17,6 +17,8 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 *   Restaurador de processos cancelados
 *   Painel de consultas SQL no banco do Fluig
 *   Gerador de datasets via dataset
+*   Dataset que encerra processos
+*   Dataset que reinicializa ou derruba servidor
 
 ### Hacks em Desenvolvimento
 +   Atualizador de campos de descrição de formulários em lote
