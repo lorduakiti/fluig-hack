@@ -13,7 +13,7 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 *   Dataset genêrico de webservices (PROTHEUS)
 *   Dataset genêrico de webservices (DATASUL)
 *   Atualizador de scripts de processos de versões antigas
-*   Atualizador de arquivos de formulários de versões antigas
+*   Atualizador de arquivos físicos dos formulários de versões antigas
 *   Restaurador de processos cancelados
 *   Painel de consultas SQL no banco do Fluig
 *   Gerador de datasets via dataset
@@ -23,6 +23,7 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 *   Alterar usuário solicitante de processo
 
 ### Hacks em Desenvolvimento
++   Atualizador de valores de campos dos registros de formulários (CRUD's)
 +   Atualizador de campos de descrição de formulários em lote
 +   Conversor de versão de formulários
 +   Dataset genêrico de webservices (RM)
