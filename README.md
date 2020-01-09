@@ -19,6 +19,8 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 *   Gerador de datasets via dataset
 *   Dataset que encerra processos
 *   Dataset que reinicializa ou derruba servidor
+*   Alterar grupo gestor de versões antigas de processos já iniciados
+*   Alterar usuário solicitante de processo
 
 ### Hacks em Desenvolvimento
 +   Atualizador de campos de descrição de formulários em lote
