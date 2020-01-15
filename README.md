@@ -21,6 +21,8 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 *   Dataset que reinicializa ou derruba servidor
 *   Alterar grupo gestor de versões antigas de processos já iniciados
 *   Alterar usuário solicitante de processo
+*   Alterar permissão de download de widgets
+*   Alterar pasta pai de formulários
 
 ### Hacks em Desenvolvimento
 +   Atualizador de valores de campos dos registros de formulários (CRUD's)
