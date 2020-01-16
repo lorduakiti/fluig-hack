@@ -23,6 +23,7 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 *   Alterar usuário solicitante de processo
 *   Alterar permissão de download de widgets
 *   Alterar pasta pai de formulários
+*   Pesquisa por códigos de datasets
 
 ### Hacks em Desenvolvimento
 +   Atualizador de valores de campos dos registros de formulários (CRUD's)
