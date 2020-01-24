@@ -47,6 +47,7 @@ Abaixo segue a lista dos *"hacks"* indentificados, separados por status atual de
 [Documentação Oficial do Fluig](http://dev.fluig.com)  
 [Fórum Oficial Fluig](http://forum.fluig.com)  
 [Principais Recursos](https://github.com/elton182/fluig-cookbook)  
+[Snippets Fluig](https://tdn.totvs.com/display/public/fluig/Aceleradores+de+desenvolvimento+Fluig)
    
 >  ## Observações
 >  Esse projeto é livre para quem quiser ajudar na sua evolução desenvolvendo código, compartilhando dicas e dúvidas ou até mesmo realizando um "fork" e fazendo tudo do seu jeito. Acreditamos que o importante é ajudar a comunicade de desenvolvedores Fluig.
